@@ -35,6 +35,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Hydra-000000?&style=for-the-badge&logo=hydra&logoColor=white" />
 </div>
 
+### More tools
+<div>
+    <img src="https://img.shields.io/badge/-Metasploit-003366?style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+
+</div>
+    
+
+
 ## Certifications
 Currently working towards my Security+
 <div>
