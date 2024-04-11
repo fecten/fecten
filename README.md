@@ -4,16 +4,6 @@
 ## Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Cybersecurity Analyst Role.
 
-## Skills
-| Category      | Skills                                        |
-|---------------|-----------------------------------------------|
-| Technical     |                                              |
-|               |                                               |
-|               |                                               |
-| Soft Skills   |                                              |
-|               |                                               |
-|               |                                               |
-
 ## Tools
 
 ### Network
